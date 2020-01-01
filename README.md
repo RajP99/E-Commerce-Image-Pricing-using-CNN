@@ -1,9 +1,7 @@
-# E-Commerce-Image-Pricing-using-CNN
-Personal project to determine produuct pricing using just an image of the product.
+# Scraping News Headlines & Clustering
 
-Using the BeautifulSoup library to scrape images and their pricing from Amazon.ca.
+Personal project where I used the Urllib and Beautiful Soup libraries to scrape Canadian news headlines off of various popular news sources.
 
-Implementing a Convolutional Neural Network (CNN) to identify products and determine the price.
+Used the kmeans algorithm to determine common topics and trending Canadian news.
 
-PROJECT IS STILL IN PROGRESS
-
+IN PROGRESS
